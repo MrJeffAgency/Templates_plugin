@@ -85,6 +85,10 @@ Templates only generates the files. Installing packages is done separately.
 
 MrJeffAgency
 
+## Source code
+
+https://github.com/MrJeffAgency/Templates_plugin
+
 ## License
 
 MIT License
