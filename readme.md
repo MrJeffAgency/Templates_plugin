@@ -43,6 +43,9 @@ Or tap the **Templates** icon in the left sidebar and pick a template.
 | C | `src/main.c`, `include/` |
 | C++ | `src/main.cpp`, `include/` |
 | Java | `src/Main.java` |
+| Telegram Bot (Friendly) | `bot.js`, `package.json`, `.env.example`, `.gitignore` |
+| Telegram Movie Bot | `bot.js` (TMDB search, trending, popular, random, trailers), `package.json`, `.env.example` |
+| AI Website (Gemini Chat) | `server.js`, `public/` chat UI, `package.json`, `.env.example` |
 | React + Vite | `index.html`, `package.json`, `vite.config.js`, `src/App.jsx`, `src/main.jsx`, `src/style.css` |
 
 Every project also gets a `README.md`.
