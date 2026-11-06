@@ -1,0 +1,16 @@
+{
+  "id": "mrjeffagency.templates",
+  "name": "Templates",
+  "main": "main.js",
+  "version": "1.1.0",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "files": [],
+  "minVersionCode": 290,
+  "license": "MIT",
+  "author": {
+    "name": "MrJeffAgency",
+    "email": "",
+    "github": "MrJeffAgency"
+  }
+}
