@@ -13,5 +13,33 @@
     "email": "",
     "github": "MrJeffAgency"
   },
-  "repository": "https://github.com/MrJeffAgency/Templates_plugin.git"
+  "repository": "https://github.com/MrJeffAgency/Templates_plugin.git",
+  "changelogs": "changelogs.md",
+  "keywords": [
+    "templates",
+    "project generator",
+    "starter",
+    "boilerplate",
+    "scaffold",
+    "html",
+    "php",
+    "javascript",
+    "python",
+    "c",
+    "cpp",
+    "java",
+    "react",
+    "vite",
+    "telegram bot",
+    "movie bot",
+    "ai website",
+    "gemini"
+  ],
+  "contributors": [
+    {
+      "name": "MrJeffAgency",
+      "role": "Developer",
+      "github": "MrJeffAgency"
+    }
+  ]
 }
