@@ -91,6 +91,12 @@ Templates only generates the files. Installing packages is done separately.
 MrJeffAgency
 
 ## Source code
+## Install from GitHub (Remote)
+
+Settings → Plugins → + → REMOTE, then paste:
+
+https://raw.githubusercontent.com/MrJeffAgency/Templates_plugin/main/Templates_plugin.zip
+
 
 https://github.com/MrJeffAgency/Templates_plugin
 
