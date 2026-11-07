@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.5.0
+- Added 5 templates: Next.js, Tailwind Landing Page, Kotlin, Android WebView App, Termux Bot Starter
+
+## v1.4.0
+- Added 9 templates: Express REST API, Flask API, Discord Bot, Telegram Bot (Python), Portfolio Website, PWA (Installable App), Vue + Vite, Go, Rust
+
+## v1.3.0
+- Templates now use the Acode Projects API: all templates appear in Acode's New Project list
+- Removed the sidebar app and command palette command
+
 ## v1.2.0
 - Added Telegram Bot (Friendly) template
 - Added Telegram Movie Bot template (TMDB)
