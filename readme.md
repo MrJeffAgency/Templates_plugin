@@ -12,6 +12,14 @@ Create complete, ready-to-use project structures directly inside Acode in second
 4. Enter the author name.
 5. The project files are generated automatically.
 
+## Install from GitHub (Remote)
+
+Settings → Plugins → + → REMOTE, then paste:
+
+```
+https://raw.githubusercontent.com/MrJeffAgency/Templates_plugin/main/Templates_plugin.zip
+```
+
 ## Features
 
 - Generate complete projects in seconds
@@ -91,12 +99,6 @@ Templates only generates the files. Installing packages is done separately.
 MrJeffAgency
 
 ## Source code
-## Install from GitHub (Remote)
-
-Settings → Plugins → + → REMOTE, then paste:
-
-https://raw.githubusercontent.com/MrJeffAgency/Templates_plugin/main/Templates_plugin.zip
-
 
 https://github.com/MrJeffAgency/Templates_plugin
 
